@@ -1,6 +1,9 @@
 # GiftProject
 MSA 전환 선물 프로젝트 개발
 
+개발환경<br>
+java11, intellij, Spring JPA, MySql
+
 ✔ 선물하기 프로젝트 개발.
 선물하기 프로젝트의 요구사항과 배경, 서비스 아키텍처 공유함.
 
