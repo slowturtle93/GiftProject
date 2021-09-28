@@ -22,4 +22,4 @@ java11, intellij, Spring JPA, MySql
 사전에 검토한 flow를 바탕으로 선물하기 프로젝트를 개발<br>
 
 ⚬ 선물하기 프로젝트 구현<br>
-⚬ retrofit, [aws sqs](https://hsti.tistory.com/82), 메시징 형태
+⚬ [retrofit](https://hsti.tistory.com/83), [aws sqs](https://hsti.tistory.com/82), 메시징 형태
